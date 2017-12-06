@@ -1,0 +1,11 @@
+1,West Bay Beach,350
+2,Hotel Indigo,225
+3,Park Place,325
+4,Comfort Inn,200
+5,Howard Johnson,400
+6,Bayshore Resort,300
+7,Sugar Beach Resort,450
+8,Knights Inn,200
+9,Hampton Inn,250
+10,Travellodge,200
+
